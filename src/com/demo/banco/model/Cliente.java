@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.demo.banco.model;
 
 /**
@@ -11,4 +7,5 @@ package com.demo.banco.model;
  */
 public class Cliente {
     
+    public int id;
 }
